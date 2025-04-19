@@ -1,6 +1,5 @@
 # Weather-Search-Android-Application
-This Android App was made as part of course CSCI 571 Web technologies at USC. A working demo of this app can be found here
-https://www.youtube.com/watch?v=t_iCYOR0n4c&feature=youtu.be
+This Android App was made as part of course CSCI 571 Web technologies at USC. 
 
 I have develeped this Android App which allows users to search for weather information of any city around the world, save cities to favorites and tweet about a city's current weather. The backend service is written in Node.js and is hosted on Amazon Web Services.
 
