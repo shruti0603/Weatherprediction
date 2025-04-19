@@ -7,7 +7,7 @@ The home screen of the app is where the user can view the weather conditions of 
 
 Also, a search view is provided at the top where the user can search for the weather conditions of any city around the world using google "Autocomplete" feature. After choosing a city from the google autocomplete options the weather details of that city are displayed.
 
-<img src=Screenshots/Screen%20Shot%202019-12-20%20at%204.34.53%20PM.png width=260 hspace=20><img src=Screenshots/Screen%20Shot%202019-12-20%20at%204.41.25%20PM.png width=260 hspace=20><img src=Screenshots/detailedWeather.png width=260>
+<img src=Screen%20Shot%202019-12-20%20at%204.34.53%20PM.png width=260 hspace=20><img src=Screenshots/Screen%20Shot%202019-12-20%20at%204.41.25%20PM.png width=260 hspace=20><img src=Screenshots/detailedWeather.png width=260>
 
 On clicking the current weather card with the info icon the detailed weather info of that city is displayed. The darkSky API is queried with the latitude & longitude values of the city and the returned JSON is displayed in the Today and Weekly tabs. Google custom Search engine API is used for displaying the pictures of the city in photos tab. MPAndroidChart third party library is used for displaying the min-max temperature charts in the weekly tab.
 
